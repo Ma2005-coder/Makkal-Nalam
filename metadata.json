@@ -1,0 +1,8 @@
+{
+  "name": "Makkal Nalam",
+  "description": "A comprehensive portal dedicated to ensuring government social welfare schemes reach the most vulnerable populations through AI-powered discovery, eligibility checking, and voice-assisted guidance.",
+  "requestFramePermissions": [
+    "microphone",
+    "geolocation"
+  ]
+}
